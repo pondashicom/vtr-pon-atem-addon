@@ -1,0 +1,9 @@
+/build/
+/build-*/
+/package/
+*.user
+*.pdb
+
+/packages/
+
+/sdk/
